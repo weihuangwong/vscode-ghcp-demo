@@ -1,0 +1,3 @@
+"method","estimate","standard_error","ci_95_lower","ci_95_upper","n_treated","n_control"
+"Raw difference in means",-635.026212037425,677.195372432914,-1967.24440506098,697.191980986128,185,429
+"1:1 propensity-score matching",1770.60290641026,922.248878916282,-56.0272039100767,3597.23301673059,117,117

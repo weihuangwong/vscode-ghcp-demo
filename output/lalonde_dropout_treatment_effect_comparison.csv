@@ -1,0 +1,3 @@
+"method","estimate","standard_error","ci_95_lower","ci_95_upper","n_treated","n_control"
+"OLS regression-adjusted",1082.43161550017,944.705980364484,-775.105621136072,2939.96885213641,131,256
+"1:1 propensity-score matching",666.929403289474,1145.16929720426,-1614.36482036837,2948.22362694732,76,76
