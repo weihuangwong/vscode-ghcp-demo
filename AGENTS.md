@@ -2,6 +2,7 @@
 Title: Instructions for AI Coding Agents
 Author: Weihuang Wong
 Date: 2026-10-21
+---
 
 # Background
 
