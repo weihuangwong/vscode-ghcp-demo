@@ -1,11 +1,11 @@
 ---
 Title: Instructions for AI Coding Agents
 Author: Weihuang Wong
-Date: 2026-09-12
----
+Date: 2026-10-21
 
 # Background
 
+Analysis of LaLonde dataset.
 
 # How we work
 
@@ -20,6 +20,9 @@ If these folders aren't present, create them:
 - `logs/` — one log file per agent session.
 
 ## Documenting what we did
+
+When processing or analyzing data, write programs to `code/`. Show all work 
+needed to reproduce the work.
 
 For each agent session, write a log file `logs/{YYYY-MM-DD}_{topic}.md`. Record
 what was attempted, what worked, what did not, and why. This is a lab notebook
