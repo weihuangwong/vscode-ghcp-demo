@@ -47,3 +47,18 @@ Follow this example:
 # Notes:
 ################################################################################
 ```
+
+## Versioning
+
+After completing a meaningful change -- such as adding a feature, fixing
+an analysis error, or updating a processing step -- offer to save a Git
+checkpoint. Briefly summarize what changed and ask:
+"Would you like me to commit these changes as a checkpoint?"
+
+If the user agrees:
+- If needed, initialize a Git repository after checking that the project
+  is not already inside one.
+- Commit only files relevant to the change. Exclude confidential data,
+  credentials, and temporary files.
+- Use a clear commit message describing the change.
+- Preserve unrelated work and do not push to a remote.
